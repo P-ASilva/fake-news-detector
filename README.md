@@ -1,4 +1,4 @@
-# fake-news-detector
+# fake-news-detector [Out Dated]
 
 ## **Sumary**
 
